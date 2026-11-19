@@ -1,0 +1,8 @@
+fastapi==0.165.0
+chromadb==1.0.20
+pymupdf==1.28.2
+python-dotenv==1.2.4
+python-docx==1.2.0
+python-multipart==0.0.34
+sentence-transformers==5.1.0
+uvicorn==0.54.0
